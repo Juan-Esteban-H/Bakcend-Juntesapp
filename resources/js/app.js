@@ -1,9 +1,8 @@
 //
 
 /**
- * Echo exposes an expressive API for subscribing to channels and listening
- * for events that are broadcast by Laravel. Echo and event broadcasting
- * allow your team to quickly build robust real-time web applications.
+ * Echo is disabled because laravel-echo and pusher-js are not installed.
+ * To enable real-time features, run `npm install --save laravel-echo pusher-js`
+ * and restore `import './echo';`.
  */
-
-import './echo';
+// import './echo';
